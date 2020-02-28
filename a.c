@@ -1,2 +1,5 @@
-befyvvjv we kr
-we rjeuire qwj
+#include<stdio.h>
+void main()
+{
+    printf("Hello World");
+}
